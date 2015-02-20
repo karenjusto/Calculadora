@@ -47,7 +47,7 @@ Expresion :  NUM {$$=$1;}|
              Expresion RESTA Expresion {$$=$1-$3;}|
              Expresion MULTIPLICACION Expresion {$$=$1*$3;}|
              Expresion DIVISION Expresion {$$=$1/$3;}|
-						 TKN_MENOS Expresion %prec TKN_SIGNO_MENOS {$$ = -($2);}
+	     TKN_MENOS Expresion %prec TKN_SIGNO_MENOS {$$ = -($2);}
 ;
 %%
 
