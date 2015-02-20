@@ -1,0 +1,47 @@
+Entero identificado: 4
+Multiplicacion identificada: *
+Parentesis izquierdo identificado: (
+Flotante identificado: 8.2
+Suma identificada: +
+Seno identificado: sen
+Parentesis izquierdo identificado: (
+Entero identificado: 95
+Parentesis derecho identificado: )
+Parentesis derecho identificado: )
+Division identificada: /
+Entero identificado: 2
+Potencia identificada: ^
+Entero identificado: 5
+Punto y coma identificado: ;
+Flotante identificado: 3.3
+Suma identificada: +
+Entero identificado: 8
+Multiplicacion identificada: *
+Flotante identificado: 5.2
+Punto y coma identificado: ;
+Entero identificado: 2
+Multiplicacion identificada: *
+Raiz identificada: raiz
+Parentesis izquierdo identificado: (
+Entero identificado: 81
+Parentesis derecho identificado: )
+Modulo identificado: %
+Entero identificado: 10
+Punto y coma identificado: ;
+Entero identificado: 4
+Potencia identificada: ^
+Entero identificado: 3
+Potencia identificada: ^
+Entero identificado: 2
+Punto y coma identificado: ;
+Tangente identificada: tan
+Parentesis izquierdo identificado: (
+Entero identificado: 270
+Parentesis derecho identificado: )
+Punto y coma identificado: ;
+Entero identificado: 8
+Division identificada: /
+Entero identificado: 0
+Suma identificada: +
+Entero identificado: 3
+Punto y coma identificado: ;
